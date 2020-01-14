@@ -14,4 +14,4 @@ Question 2
 - Kickstarter theater campaigns are most popular in May, June and July; with May being the peak month
 - Success rates are highest in May (should explore goal bands and theather subcategory to learn more)
 - Note: there are years with partial data collected which influence the early and late months
-![Outcomes based on Goals - Graph](https://github.com/gyunker/kickstarter-analysis/blob/master/Outcomes%20based%20on%20Goals.png)
+![Outcomes based on Launch Date - Graph](https://github.com/gyunker/kickstarter-analysis/blob/master/Outcomes%20based%20on%20Launch%20Date.png)
